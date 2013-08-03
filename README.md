@@ -6,4 +6,4 @@ Sample Repo.
 
 Screenshot
 
-(https://raw.github.com/nyanlynnhtut/btns/master/img/sample.png)
+![Screenshot](https://raw.github.com/nyanlynnhtut/btns/master/img/sample.png)
