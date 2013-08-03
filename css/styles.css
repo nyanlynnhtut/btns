@@ -1,0 +1,80 @@
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -ms-border-radius: 2px;
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+    -webkit-text-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+    -moz-text-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+    -ms-text-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+    -webkit-transition: background-color .2s ease-out;
+    -moz-transition: background-color .2s ease-out;
+    -ms-transition: background-color .2s ease-out;
+    -o-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+    background: #686865;
+}
+
+.btn-border, .btn-bar {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.1);
+    padding: 4px;
+    border-top: 1px solid #CDCDCD;
+    border-left: 1px solid #BFBFBF;
+    border-right: 1px solid #BFBFBF;
+    border-bottom: 1px solid #BCBCBC;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -ms-border-radius: 2px;
+    display: inline-block;
+}
+
+.btn-bar {
+    background : #F9F9F9;
+}
+
+.btn-border .btn {
+    padding: 8px 24px;
+}
+
+.btn-thin {
+    padding: 4px 20px;
+}
+
+.btn-block {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+}
+.btn-block + .btn-block {
+    margin-top: 8px;
+}
+
+
+.btn-red {
+    background: #e55e48;
+}
+
+.btn-green {
+    background: #8dc03c;
+}
+
+.btn-blue {
+    background: #5faae3;
+}
+
+.btn-yellow {
+    background: #E7DB45;
+}
+
+.btn:hover {
+    background: #454242;
+}
