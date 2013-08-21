@@ -75,6 +75,10 @@
     background: #E7DB45;
 }
 
+.btn-silver {
+    background: #bdc3c7;
+}
+
 .btn:hover {
     background: #454242;
 }
