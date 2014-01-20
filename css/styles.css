@@ -2,10 +2,10 @@
     display: inline-block;
     padding: 10px 20px;
     color: #fff;
-    border-radius: 2px;
-    -moz-border-radius: 2px;
-    -webkit-border-radius: 2px;
-    -ms-border-radius: 2px;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -ms-border-radius: 6px;
     text-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
     -webkit-text-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
     -moz-text-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
